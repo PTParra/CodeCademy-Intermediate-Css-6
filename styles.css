@@ -263,7 +263,7 @@ body {
   
   .summary {
     /* Change font-size below to be between 18 to 20 pixels */
-    font-size: 18px;
+    font-size: 19px;
     /* Set line-height to 1.5 */
     line-height:1.5;
     /* Set letter-spacing to 1.2 */
@@ -333,7 +333,7 @@ body {
   input:focus {
     outline: none;
     /* Set solid border of size 1px and of a color of your choice */
-    border: 1px green;
+    border: 2px solid green;
   
   }
   
